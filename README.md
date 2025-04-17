@@ -1,1 +1,1 @@
-# Zero Inflated Poisson Gaussian Process
+# Zero Inflated Gaussian Process
