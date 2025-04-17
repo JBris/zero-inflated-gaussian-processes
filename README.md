@@ -1,1 +1,1 @@
-# zip-gaussian-process
+# Zero Inflated Poisson Gaussian Process
